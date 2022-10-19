@@ -435,7 +435,12 @@ body{
 .imagess{
     float: Right;
     padding-right: 250px;
-    padding-top: 5px;
+    padding-top: 10px;
+    border-radius: 150px;
+}
+.imgg{
+    border-radius: 200px;
+    border: 3px solid black;
 }
 .Details h1{
     font-size: 50px;
